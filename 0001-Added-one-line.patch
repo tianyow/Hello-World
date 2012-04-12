@@ -1,0 +1,23 @@
+From 74a10c000e72d10183970a55548047cca3079257 Mon Sep 17 00:00:00 2001
+From: tianyow <tianyow@gmail.com>
+Date: Thu, 12 Apr 2012 11:24:20 +0800
+Subject: [PATCH] Added one line
+
+---
+ README |    4 +++-
+ 1 files changed, 3 insertions(+), 1 deletions(-)
+
+diff --git a/README b/README
+index c57eff5..f503fdf 100644
+--- a/README
++++ b/README
+@@ -1 +1,3 @@
+-Hello World!
+\ No newline at end of file
++Hello World!
++
++This is a test.
+\ No newline at end of file
+-- 
+1.7.4.4
+
